@@ -1,6 +1,6 @@
 # Hi, I'm Julie! 👋
 
-💊 💻 I'm a software engineer with a pharmacy background and a graduate of Flatiron School bootcamp. I passionate about technology and looking forward to combine my creativity, problem-solving skills, and education from Flatiron School to grow and excel as a software engineer. 
+💊 💻 I'm a software engineer with a pharmacy background and a graduate of Flatiron School bootcamp. I am passionate about technology and looking forward to combine my creativity, problem-solving skills, and education from Flatiron School to grow and excel as a software engineer. 
 
 
 ![<jucheng925>'s Stats](https://github-readme-stats.vercel.app/api?username=jucheng925&theme=tokyonight&show_icons=true&hide=stars,contribs&hide_border=true&count_private=true&rank_icon=github)
