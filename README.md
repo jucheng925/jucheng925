@@ -11,11 +11,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,flask)](https://skillicons.dev)
 
 ## 🔭 Currently Working
-- Creating a portfolio page to showcase all the projects that I made so far
+- Updating my portfolio page to make it more responsive and mobile-friendly
 - Working thru freeCodeCamp certification courses
-- Solving LeetCode to advance my problem-solving skills
+- Solving LeetCode to advance my problem-solving skill
+- Collaborating with other devs, product owners, scrum masters to work on a project thru Chingu
 
 ## 🌱 Currently Exploring
+- Learning Gogot and how to create a simple game
 - Learning CSS Animation and the methods that can be use to make it responsive
 - Practicing styling with Tailwind CSS to see what the advantages are compared with traditional css
 
